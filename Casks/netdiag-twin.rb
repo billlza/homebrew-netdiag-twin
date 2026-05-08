@@ -1,6 +1,6 @@
 cask "netdiag-twin" do
-  version "0.3.7"
-  sha256 "e19e11702ae8a60136b8e981eb9f81bc496172ac671f9cc46995cccc9115d765"
+  version "0.4.0"
+  sha256 "43c17299dec734311fb407981cd56cf78b74ff5b9b7ad2c7411980dd546d5603"
 
   url "https://github.com/billlza/netdiag-twin/releases/download/v#{version}/NetDiag-Twin-#{version}.dmg"
   name "NetDiag Twin"
